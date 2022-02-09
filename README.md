@@ -14,7 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://gfycat.com/familiarlinearherring" width=250><br>
+<img src="https://github.com/akheel-s/flix-app/blob/master/demo.gif" width=250><br>
 
 ### Notes
 Building the app was relatively easy I found the system for pulling images from the API a little unnecessary and tedious I was surprised that we need a third party package for that and couldn't do it by default.
