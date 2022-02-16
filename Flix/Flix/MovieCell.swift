@@ -6,6 +6,8 @@
 //
 
 import UIKit
+import AlamofireImage
+
 
 class MovieCell: UITableViewCell {
 
